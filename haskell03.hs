@@ -1,0 +1,2 @@
+-- Prática 03 de Haskell
+-- Nome: Fabio Junior
